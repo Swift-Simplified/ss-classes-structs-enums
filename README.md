@@ -1,6 +1,6 @@
 # Classes, Structs and Enums - in a Swift Playground 🛝
 
-[Download](https://github.com/MatthewpHarding/FREE-PLAYGROUND-swiftui/archive/refs/heads/main.zip) this Swift playground file to run the example given in [Xcode](https://developer.apple.com/xcode).
+[Download](https://github.com/MatthewpHarding/FREE-PLAYGROUND-classes-structs-enums/archive/refs/heads/main.zip) this Swift playground file to run the example given in [Xcode](https://developer.apple.com/xcode).
 
 ## This Playground Teaches 👨🏻‍🏫
 When to make the choice to use either a class, struct or enum. 
